@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+body {
+  margin: auto;
+  display: flex;
+  background-color: #c50000e3;
+}
+
+main {
+  width: 980px;
+  position: relative;
+  padding: 5px 40px;
+  margin-top: 20px;
+}

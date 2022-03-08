@@ -1,0 +1,38 @@
+.btm {
+  display: block;
+  margin-top: 40px;
+  margin-left: 85px;
+  margin-right: 90px;
+  text-decoration: none;
+  font-size: 15px;
+  height: 45px;
+  line-height: 45px;
+  background-color: #ffc506;
+  color: #122a57;
+  text-align: center;
+  border-radius: 30px;
+  width: 150px;
+}
+
+h2 {
+  text-align: center;
+  color: #fff;
+  margin-top: 40px;
+  font-size: 30px;
+}
+
+ul {
+  color: #fff;
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+li {
+  line-height: 1.5;
+}
+
+h3 {
+  color: #fff;
+  margin-top: 40px;
+  line-height: 1.5;
+}

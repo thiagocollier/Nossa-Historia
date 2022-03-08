@@ -1,0 +1,48 @@
+.btm {
+  display: block;
+  margin-left: 65px;
+  margin-right: auto;
+  text-decoration: none;
+  font-size: 15px;
+  height: 45px;
+  line-height: 45px;
+  background-color: #ffc506;
+  color: #122a57;
+  text-align: center;
+  border-radius: 30px;
+  width: 150px;
+}
+
+.img-one {
+  display: block;
+  margin-left: 1px;
+  margin-right: auto;
+  margin-top: 15px;
+  width: 290px;
+  height: 290px;
+  border-radius: 20%;
+}
+
+p {
+  margin-top: 25px;
+  margin-left: 0px;
+  margin-right: 40px;
+  text-align: center;
+  color: #fff;
+}
+
+.btn {
+  display: block;
+  margin-top: 25px;
+  margin-left: 30px;
+  margin-right: 15px;
+  text-decoration: none;
+  font-size: 20px;
+  height: 50px;
+  line-height: 50px;
+  background-color: #122a57;
+  color: #fff;
+  text-align: center;
+  border-radius: 30px;
+  width: 220px;
+}
